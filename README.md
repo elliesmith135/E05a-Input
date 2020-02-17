@@ -1,6 +1,8 @@
 # E05-Input
 
 This is an exercise to help you become accustomed to how Godot treats user input.
+I learned how to naviaget Godot and import new folders.
+Ellie Smith 2020
 
 Instructions are as follows:
  - Fork and Clone this repository. Choose a location where it will be downloaded on your computer.
